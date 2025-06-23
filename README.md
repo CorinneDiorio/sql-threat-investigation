@@ -31,3 +31,18 @@ This project was created as part of the Google Cybersecurity Certificate program
 ---
 # sql-threat-investigation
 SQL filtering queries for a cybersecurity investigation scenario
+
+---
+
+## Career Focus
+
+I’m pursuing opportunities in:
+- Security Operations Center (SOC) Analysis
+- Threat Detection & Response
+- Entry-Level Cybersecurity Support Roles
+
+If you're hiring or collaborating on early-career cyber roles, feel free to connect!
+
+---
+
+**Let’s connect**: [LinkedIn](https://www.linkedin.com/in/corinnediorio2015) | **Certifications**: Google Cybersecurity | Studying: CompTIA Security+
